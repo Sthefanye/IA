@@ -167,7 +167,7 @@ class ReconhecimentoFacial():
                                 (x - 10, y - 10), cv2.FONT_HERSHEY_PLAIN, 1, color)
 
             # Exibir uma imagem em uma janela.
-            cv2.imshow('OpenCV', im)
+            cv2.imshow('Leitura Facial', im)
 
         # Permite que os usuário destrua todas as janelas a qualquer momento.
         cv2.destroyAllWindows()
