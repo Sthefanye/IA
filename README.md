@@ -49,3 +49,13 @@ py reconhecimentoFacial.py
 ```
 
 <h1></h1>
+
+<h2> 🤝 Time </h2>
+<table>
+<tr>
+<td align="center"><br><img style="border-radius: 50%;" src="[https://github.com/Sthefanye/IA/blob/main/Docs/Team/Gabriela.png](https://github.com/Sthefanye/IA/blob/main/Docs/Team/Gabriela.png)" width="100px;" alt=""/><br /><sub><b>Gabriela Prestes</b></sub></a></td>
+<td align="center"><br><img style="border-radius: 50%;" src="[https://github.com/Sthefanye/IA/blob/main/Docs/Team/Geeorge.png](https://github.com/Sthefanye/IA/blob/main/Docs/Team/Gabriela.png)” width="100px;" alt=""/><br /><sub><b>George Moraes</b></sub></a></td>
+<td align="center"><br><img style="border-radius: 50%;" src="[https://github.com/Sthefanye/IA/blob/main/Docs/Team/Jose.png](https://github.com/Sthefanye/IA/blob/main/Docs/Team/Gabriela.png)" width="100px;" alt=""/><br /><sub><b>José Ribamar</b></sub></a></td>
+<td align="center"><br><img style="border-radius: 50%;" src="[https://github.com/Sthefanye/IA/blob/main/Docs/Team/Sthefanye.png](https://github.com/Sthefanye/IA/blob/main/Docs/Team/Gabriela.png)" width="100px;" alt=""/><br /><sub><b>Sthefanye Oliveira</b></sub></a></td>
+</tr>
+</table>
