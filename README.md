@@ -54,7 +54,7 @@ py reconhecimentoFacial.py
 <table>
 <tr>
 <td align="center"><br><img style="border-radius: 50%;" src="https://github.com/Sthefanye/IA/blob/main/Docs/Team/Gabriela.png" width="100px;" alt=""/><br /><sub><b>Gabriela Prestes</b></sub></a></td>
-<td align="center"><br><img style="border-radius: 50%;" src="https://github.com/Sthefanye/IA/blob/main/Docs/Team/George.png” width="100px;" alt=""/><br /><sub><b>George Moraes</b></sub></a></td>
+<td align="center"><br><img style="border-radius: 50%;" src="https://github.com/Sthefanye/IA/blob/main/Docs/Team/George.png" width="100px;" alt=""/><br /><sub><b>George Moraes</b></sub></a></td>
 <td align="center"><br><img style="border-radius: 50%;" src="https://github.com/Sthefanye/IA/blob/main/Docs/Team/Jose.png" width="100px;" alt=""/><br /><sub><b>José Ribamar</b></sub></a></td>
 <td align="center"><br><img style="border-radius: 50%;" src="https://github.com/Sthefanye/IA/blob/main/Docs/Team/Sthefanye.png" width="100px;" alt=""/><br /><sub><b>Sthefanye Oliveira</b></sub></a></td>
 </tr>
