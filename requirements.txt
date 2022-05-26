@@ -1,5 +1,6 @@
-
-dlib (windows https://visualstudio.microsoft.com/visual-cpp-build-tools/)
-face_recognition
-numpy
+pandas
 opencv-python
+opencv-contrib-python
+scikit-learn
+numpy
+pathlib
