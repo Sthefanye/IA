@@ -55,7 +55,7 @@ py reconhecimentoFacial.py
 <h4><b>▫️ Leitura: Onde abrirá a webcam do dispositivo para realizar o reconheimento facial.</h4>
 <h4><b>▫️ Sair: Sair do programa.</h4>
   
- <img src="https://github.com/Sthefanye/IA/blob/main/Docs/Steps/menu.png" alt="Menu de opções">
+<img src="https://github.com/Sthefanye/IA/blob/main/Docs/Steps/menu.png" alt="Menu de opções">
   
 <h2>1º Passo: Cadastro </h2>
   <h4>Ao clicar na opção de cadastro, irá aparecer outro menu, para você inserir o seu nome. </h4>
@@ -65,12 +65,15 @@ py reconhecimentoFacial.py
   <h5> ⚠️ Insira ID, apenas números, sem espaços. Por exemplo: 01</h3>
   <h4>Após inserir seus dados, o programa irá abrir a webcam e realizar o cadastro da sua face. Depois lhe tratá um feedback.</h5>
    <img src="https://github.com/Sthefanye/IA/blob/main/Docs/Steps/register_successfully.png" alt="Feedback">
-<h1></h1>
-  
-  <h2>1º Passo: Leitura </h2>
+
+<h2>2º Passo: Leitura </h2>
   <h4>Depois de realizar o cadastro, clicando em leitura, após alguns segundos, a webcam abrirá e o reconhecimento facial será feito. </h4>
-  <img src="https://github.com/Sthefanye/IA/blob/main/Docs/Steps/face_maskon.png" alt="Com máscara">
-  <img src="https://github.com/Sthefanye/IA/blob/main/Docs/Steps/face_maskoff.png" alt="Sem máscara">
+   <h5> ❗️ Para fechar a webcam é só clicar na tecla "Q". </h5>
+  <img src="https://github.com/Sthefanye/IA/blob/main/Docs/Steps/face_maskon.png" alt="Com máscara" width="500" height="400">
+  <img src="https://github.com/Sthefanye/IA/blob/main/Docs/Steps/face_maskoff.png" alt="Sem máscara" width="500" height="400">
+  
+<h2>3º Passo: Sair </h2>
+  <h4>Após clicar na tecla "Q" para fechar a webcam, é só clicar em Sair que o programa fechará.</h4>
 <h1></h1>
 
 <h2> 🤝 Time </h2>
