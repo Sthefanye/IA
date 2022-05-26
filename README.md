@@ -56,6 +56,15 @@ py reconhecimentoFacial.py
 <h4><b>▫️ Sair: Sair do programa.</h4>
   
  <img src="https://github.com/Sthefanye/IA/blob/main/Docs/Steps/menu.png" alt="Menu de opções">
+  
+<h2>1º Passo: Cadastro </h2>
+  <h4>Ao clicar na opção de cadastro, irá aparecer outro menu, para você inserir o seu nome. </h4>
+  <img src="https://github.com/Sthefanye/IA/blob/main/Docs/Steps/register.png" alt="Registrar usuário">
+  <h5> ⚠️ Insira o seu primeiro nome, sem espaços. Por exemplo: Antonio</h5>
+  <h4>Após inserir o seu nome, digite um id para ser sua identificação no programa.</h5>
+  <h5> ⚠️ Insira ID, apenas números, sem espaços. Por exemplo: 01</h3>
+  <h4>Após inserir seus dados, o programa irá abrir a webcam e realizar o cadastro da sua face. Depois lhe tratá um feedback.</h5>
+   <img src="https://github.com/Sthefanye/IA/blob/main/Docs/Steps/register_successfully.png" alt="Feedback">
 <h1></h1>
 
 <h2> 🤝 Time </h2>
