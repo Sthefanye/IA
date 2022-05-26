@@ -85,3 +85,5 @@ py reconhecimentoFacial.py
 <td align="center"><br><img style="border-radius: 50%;" src="https://github.com/Sthefanye/IA/blob/main/Docs/Team/Sthefanye.png" width="100px;" alt=""/><br /><sub><b>Sthefanye Oliveira</b></sub></a></td>
 </tr>
 </table>
+
+<h5> <a href="#top">Volte ao topo</a> </h5>
