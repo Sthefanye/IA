@@ -1,8 +1,22 @@
 <h1 align="center" > Reconhecimento facial com ou sem máscara </h1>
 
-<div align = "start">
+<div align = "center">
   <h4>Matéria: Inteligência Artificial </h4> 
   <h4>Professor: Francisco Soares de Souza Neto </h4>
+   <img src="https://www.uninorte.com.br/wp-content/themes/uninorte/res/img/logo-ser.png" alt="Sem máscara" width="200" height="40">
+  
+</div>
+
+<h1></h1>
+
+<div align = "center">
+    <p align ="center">
+    <a href="#--sobre-o-projeto-">📍 Sobre o projeto</a>
+    <a href="#--tecnologias-utilizadas-">📍 Tecnologias utilizadas</a>
+    <a href="#--antes-de-rodar-o-projeto">📍 Antes de rodar o projeto</a>
+    <a href="#--executando-o-programa-">📍 Executando o projeto</a>
+    <a href="#--time-">📍 Time</a>
+    </p>
 </div>
 
 <h1></h1>
