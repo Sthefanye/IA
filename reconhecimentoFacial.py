@@ -204,12 +204,12 @@ class ReconhecimentoFacial():
                 cv2.imwrite('% s/% s.png' % (path, count), face_resize)
             count += 1
 
-            cv2.imshow('OpenCV', im)
+            cv2.imshow('Cadastrando face', im)
             key = cv2.waitKey(10)
             if key == 27:
                 break
         cv2.destroyAllWindows()
-        messagebox.showinfo("O Python está dizendo","Modelo foi treinado a imagem \n  Você será reconhecido.")
+        messagebox.showinfo("Face Cadastrada","Modelo foi treinado a imagem \n  Você será reconhecido.")
 
 
 if __name__ == '__main__':
