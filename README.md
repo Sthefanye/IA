@@ -66,6 +66,12 @@ py reconhecimentoFacial.py
   <h4>Após inserir seus dados, o programa irá abrir a webcam e realizar o cadastro da sua face. Depois lhe tratá um feedback.</h5>
    <img src="https://github.com/Sthefanye/IA/blob/main/Docs/Steps/register_successfully.png" alt="Feedback">
 <h1></h1>
+  
+  <h2>1º Passo: Leitura </h2>
+  <h4>Depois de realizar o cadastro, clicando em leitura, após alguns segundos, a webcam abrirá e o reconhecimento facial será feito. </h4>
+  <img src="https://github.com/Sthefanye/IA/blob/main/Docs/Steps/face_maskon.png" alt="Com máscara">
+  <img src="https://github.com/Sthefanye/IA/blob/main/Docs/Steps/face_maskoff.png" alt="Sem máscara">
+<h1></h1>
 
 <h2> 🤝 Time </h2>
 <table>
