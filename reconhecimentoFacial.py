@@ -4,6 +4,11 @@ from tkinter import messagebox
 import os
 import numpy
 import engine
+# Grupo: 
+#   Gabriela Prestes Farias | Matrícula: 03058613
+#   George Moraes de Sousa | Matrícula: 03113538
+#   José Ribamar Queiroz da Silva Neto | Matrícula: 03118421
+#   Sthefanye Guimarães Oliveira | Matrícula: 03116527
 
 class ReconhecimentoFacial():
     bg_color = '#2b2c49'
@@ -211,7 +216,7 @@ class ReconhecimentoFacial():
         cv2.destroyAllWindows()
         messagebox.showinfo("Face Cadastrada","Modelo foi treinado a imagem \n  Você será reconhecido.")
 
-
+# Configuração da janela do programa
 if __name__ == '__main__':
     root = Tk()
     ReconhecimentoFacial(root)

@@ -7,6 +7,11 @@ from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.neighbors import KNeighborsClassifier
 import warnings
 
+# Grupo: 
+#   Gabriela Prestes Farias | Matrícula: 03058613
+#   George Moraes de Sousa | Matrícula: 03113538
+#   José Ribamar Queiroz da Silva Neto | Matrícula: 03118421
+#   Sthefanye Guimarães Oliveira | Matrícula: 03116527
 
 def load_dataframe():
     '''
