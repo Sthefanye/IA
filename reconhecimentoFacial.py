@@ -76,7 +76,7 @@ class ReconhecimentoFacial():
         btn = Button(self.top, text='Treinamento Facial', font=('arial', 12, 'bold'),bg="#4b96fe",fg="#ffffff", command=self.modelo_treinamento)
         btn.place(x=55, y=120)
 
-    # TMétodo que realiza o conhecimento facial.
+    # Método que realiza o conhecimento facial.
     def ModeloTeste(self):
         datasets = 'dataset'
 
@@ -105,11 +105,13 @@ class ReconhecimentoFacial():
         model = cv2.face.LBPHFaceRecognizer_create()
         model.train(images, lables)
 
-        # Abrir a camera e captutar as imagens
+        # Usar o xml para fazer o reconhecimento de qualquer objeto na tela.
         face_cascade = cv2.CascadeClassifier(self.haar_file)
+         # Abrir a camera e captutar as imagens
         webcam = cv2.VideoCapture(0)
 
         # Treinamento da IA para reconhecimento facial com ou sem máscaras.
+
         dataframe = engine.load_dataframe() # Carregando dataframe com as imagens para treinamento.
 
         X_train, y_train = engine.train_test(dataframe) #Dividindo conjuntos de treino e teste.
@@ -125,6 +127,7 @@ class ReconhecimentoFacial():
             1: "Com mascara"
         }
 
+        #Reconhecimento facial
         while True:
             #Leitura dos frames.
             (_, im) = webcam.read()
@@ -162,7 +165,7 @@ class ReconhecimentoFacial():
                 # Retângulo ao redor do rosto do usuário.
                 cv2.rectangle(im, (x, y), (x + w, y + h), color, 3)
 
-                if prediction[1] < 120: # O valor que calibra o reconhecimento, quanto menor o valor, mais preciso é a leitura da imagem gravada no treinamento.
+                if prediction[1] < 200: # O valor que calibra o reconhecimento, quanto menor o valor, mais preciso é a leitura da imagem gravada no treinamento.
                     cv2.putText(im, '% s - %.0f - % s' % # Mostrando o nome, ID, e classificação se está com máscara ou sem do usuário.
                                 (names[prediction[0]], prediction[1], classification), (x - 10, y - 10),
                                 cv2.FONT_HERSHEY_PLAIN, 1, color)
