@@ -58,6 +58,7 @@ def train_test(dataframe):
 
 
 def pca_model(X_train):
+    #P CA calcula a projeção dos dados em algum vetor que maximize a variança dos dados e perca a menor quantidade de informação possível. 
     '''
     PCA para extração de features das imagens
     '''
