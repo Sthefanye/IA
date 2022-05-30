@@ -201,9 +201,9 @@ class ReconhecimentoFacial():
         webcam = cv2.VideoCapture(0)
 
         # CADASTRO DA FACE
-        # Tente tirar até 30 fotos do usuário.
+        # Tente tirar até 300 fotos do usuário.
         count = 1
-        while count < 30:
+        while count < 300:
             (_, im) = webcam.read() # Leitura da imagem na webcam
             gray = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY) # Converte as imagens para escala de cinza
             faces = face_cascade.detectMultiScale(gray, 1.3, 4)  # Detecta multiplas faces

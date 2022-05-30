@@ -62,7 +62,7 @@ def pca_model(X_train):
     '''
     PCA para extração de features das imagens
     '''
-    pca = PCA(n_components=30)
+    pca = PCA(n_components=300)
     pca.fit(X_train)
     
     return pca
